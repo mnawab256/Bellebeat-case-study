@@ -10,11 +10,11 @@ to identify trends in how consumers use non-Bellabeat smart devices (fitbit) and
 - Charts & Graphs
 - Data Cleaning Functions
 
-  ## Data Sources
-  -public fitbit fitness tracker data (30 participants, 31 days)
-  -Dataset provided by [Mobius](https://www.kaggle.com/datasets/arashnic/fitbit) on Kaggle
+## Data Sources
+-public fitbit fitness tracker data (30 participants, 31 days)
+-Dataset provided by [Mobius](https://www.kaggle.com/datasets/arashnic/fitbit) on Kaggle
 
-  ## Key insights
+## Key insights
 - Most users are less active on weekends.
 - Users sleep more on weekdays
 - High activity levels are not exclusivily linked to calorie burn.
